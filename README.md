@@ -5,7 +5,7 @@ Welcome to the **Prompt Engineering** repository! This repo is organized into to
 - [Markdown Basics for LLM Clarity](./01-Markdown-Basics/README.md)
 - [Meta-Prompting Fundamentals](./02-Meta-Prompting-Fundamentals/README.md)
 - [Advanced Meta-Prompting Techniques](./03-Advanced-Meta-Prompting-Techniques/README.md)
-- [Meta-Prompting For AI Gents](./04-Metaprompting-For-AI-Agents/README.md)
+- [Meta-Prompting For AI Agents](./04-Metaprompting-For-AI-Agents/README.md)
 - [Testing & Iteration](./05-Testing-Iteration/README.md)
 - [Ecosystem & Future Trends](./06-Ecosystem-Future-Trends/README.md)
 - [The ULTIMATE 2025 Guide](./07-Ultimate-2025-Guide/README.md)
