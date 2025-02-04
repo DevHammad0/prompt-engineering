@@ -16,7 +16,7 @@ There is an ongoing debate about the future role of prompt engineering. As AI mo
 
 ### Tools That Enhance Prompt Engineering
 Stay updated with tools designed to simplify prompt creation:
-- **Anthropic’s Prompt Generator:** Automates prompt creation and can suggest improvements.
+- **[Anthropic’s Prompt Generator](https://www.anthropic.com/news/prompt-generator):** Automates prompt creation and can suggest improvements.
 - **ChatGPT-Based Generators:** Offer personalized prompt suggestions based on your input and goals.
 
 
