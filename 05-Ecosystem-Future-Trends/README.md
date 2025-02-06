@@ -24,7 +24,7 @@ As AI models become more advanced (e.g., GPT-4 and beyond), the focus is shiftin
 
 ### **3. Tools That Enhance Prompt Engineering**
 New tools are making it easier to create effective prompts:
-- **[Anthropic’s Prompt Generator](https://www.anthropic.com/news/prompt-generator):**: Automates prompt creation and suggests improvements.
+- **[Anthropic’s Prompt Generator](https://www.anthropic.com/news/prompt-generator):** Automates prompt creation and suggests improvements.
 - **ChatGPT-Based Generators**: Provide personalized suggestions based on your goals and input.
 
 ---
