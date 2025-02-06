@@ -17,9 +17,9 @@ AI: “List actionable strategies to enhance collaboration, communication, and e
 ```
 **Discussion Point :**
 
-The user starts with a clear objective: improving team productivity in a remote work setting.
-The AI refines the idea by adding specific constraints (actionable strategies, tools, workflows, team-building activities).
-The result is a well-structured prompt that guides the user toward generating practical solutions.
+- The user starts with a clear objective: improving team productivity in a remote work setting.
+- The AI refines the idea by adding specific constraints (actionable strategies, tools, workflows, team-building activities).
+- The result is a well-structured prompt that guides the user toward generating practical solutions.
 
 
 
