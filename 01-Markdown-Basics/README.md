@@ -39,8 +39,6 @@ Markdown is a simple formatting tool that makes your text **clear, organized, an
      ```python
      def add(a, b):
          return a + b
-     ```
-     ```
 
 ---
 
