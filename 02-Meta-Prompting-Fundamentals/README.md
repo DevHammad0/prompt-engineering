@@ -12,10 +12,14 @@ Meta-prompting involves using the AI’s own capabilities to generate or refine 
 
 ### Detailed Example
 ```markdown
-User: “Help me create a prompt for a poem about space, in the style of Dr. Seuss.”
-AI: “Compose a whimsical, rhyming poem that personifies planets and stars, using playful language and absurd imagery to captivate a young audience.”
+User: “Help me create a prompt for brainstorming ideas to improve team productivity in a remote work environment.”
+AI: “List actionable strategies to enhance collaboration, communication, and efficiency for remote teams. Include tools, workflows, and team-building activities that foster engagement and accountability.”
 ```
+**Discussion Point :**
 
+The user starts with a clear objective: improving team productivity in a remote work setting.
+The AI refines the idea by adding specific constraints (actionable strategies, tools, workflows, team-building activities).
+The result is a well-structured prompt that guides the user toward generating practical solutions.
 
 
 
