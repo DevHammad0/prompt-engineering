@@ -1,7 +1,5 @@
-## 6. **The ULTIMATE 2025 Guide**
-
-
 ## **The ULTIMATE 2025 Guide to Prompt Engineering**
+
 For a deeper dive into prompt engineering, check out this video:  
 [Watch: The ULTIMATE 2025 Guide to Prompt Engineering - Master the Perfect Prompt Formula!](https://www.youtube.com/watch?v=bIxbpIwYTXI)
 
